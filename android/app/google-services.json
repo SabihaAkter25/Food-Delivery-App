@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364469953668",
+    "project_id": "delivery-app-with-admin-cc563",
+    "storage_bucket": "delivery-app-with-admin-cc563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364469953668:android:8e89aceef01b2642a74ed1",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app_with_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8qTTwqFmF-EAVnGkjuiGJ9G8e_24zKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
